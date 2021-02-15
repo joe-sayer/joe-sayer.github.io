@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A production build is available at [joe-sayer.github.io](https://joe-sayer.github.io)
+
 ## Available Scripts
 
 In the project directory, you can run:
